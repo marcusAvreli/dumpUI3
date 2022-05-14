@@ -1,0 +1,414 @@
+2022-05-07T13:33:47,837  INFO main dumpUI3.App:28 - APP_STARTED
+2022-05-07T13:33:48,039  INFO main dumpUI3.gui.MainFrame:36 - CheckPost_1
+2022-05-07T13:33:48,089  INFO main dumpUI3.gui.MainFrame:38 - CheckPost_2
+2022-05-07T13:33:48,138  INFO main dumpUI3.App:32 - APP_FINISHED
+2022-05-07T13:35:15,234  INFO main dumpUI3.App:28 - APP_STARTED
+2022-05-07T13:35:15,436  INFO main dumpUI3.gui.MainFrame:36 - CheckPost_1
+2022-05-07T13:35:15,488  INFO main dumpUI3.gui.MainFrame:38 - CheckPost_2
+2022-05-07T13:35:15,533  INFO main dumpUI3.App:32 - APP_FINISHED
+2022-05-07T13:35:19,494  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:47 - add operation called
+2022-05-07T13:51:29,498  INFO main dumpUI3.App:28 - APP_STARTED
+2022-05-07T13:51:29,709  INFO main dumpUI3.gui.MainFrame:36 - CheckPost_1
+2022-05-07T13:51:29,759  INFO main dumpUI3.gui.MainFrame:38 - CheckPost_2
+2022-05-07T13:51:29,811  INFO main dumpUI3.App:32 - APP_FINISHED
+2022-05-07T13:51:34,061  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T13:54:32,985  INFO main dumpUI3.App:28 - APP_STARTED
+2022-05-07T13:54:33,196  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T13:54:33,250  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T13:54:33,334  INFO main dumpUI3.App:32 - APP_FINISHED
+2022-05-07T13:54:37,070  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T13:54:43,542  INFO AWT-EventQueue-0 commands.edit.add.AddAffiliationEdit:68 - executing add operation
+2022-05-07T14:54:08,945  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T14:54:08,951  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T14:54:08,951  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T14:54:08,951  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T14:54:08,954  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T14:54:08,954  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T14:54:08,954  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T14:54:08,955  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T14:54:09,155  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T14:54:09,211  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T14:54:09,296  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T14:54:14,371  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T14:54:17,110  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T14:54:18,343  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/dumpWebService
+2022-05-07T14:54:18,343  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T14:57:41,522  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T14:57:41,528  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T14:57:41,529  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T14:57:41,529  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T14:57:41,532  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T14:57:41,532  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T14:57:41,532  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T14:57:41,532  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T14:57:41,736  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T14:57:41,787  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T14:57:41,894  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T14:57:46,219  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T14:57:48,621  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T14:57:48,621  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:74 - fullAffiliation:dsfgdfs
+2022-05-07T14:57:49,807  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/dumpWebService
+2022-05-07T14:57:49,807  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T14:58:00,651  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T14:58:00,651  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:74 - fullAffiliation:testReport
+2022-05-07T14:58:00,660  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/dumpWebService
+2022-05-07T14:58:00,660  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:00:47,502  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:00:47,507  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:00:47,508  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:00:47,508  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:00:47,510  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:00:47,510  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:00:47,511  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:00:47,511  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:00:47,717  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:00:47,775  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:00:47,868  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:00:52,115  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:00:53,789  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:00:53,789  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:74 - fullAffiliation:fghfgh
+2022-05-07T15:00:54,972  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/dumpWebService
+2022-05-07T15:00:54,973  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:02:25,868  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:02:25,874  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:02:25,874  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:02:25,875  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:02:25,878  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:02:25,878  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:02:25,878  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:02:25,878  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:02:26,076  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:02:26,130  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:02:26,218  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:02:30,603  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:02:34,829  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:02:34,830  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:74 - fullAffiliation:test
+2022-05-07T15:02:34,830  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:http://localhost:8080/dumpWebService
+2022-05-07T15:02:36,018  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/dumpWebService
+2022-05-07T15:02:36,018  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:03:43,544  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:03:43,549  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:03:43,550  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:03:43,550  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:03:43,553  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:03:43,553  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:03:43,553  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:03:43,553  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:03:43,768  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:03:43,825  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:03:43,929  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:03:47,827  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:03:49,364  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:03:49,365  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:74 - fullAffiliation:fghfd
+2022-05-07T15:03:49,365  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:http://localhost:8080/reportService
+2022-05-07T15:03:50,611  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/reportService
+2022-05-07T15:03:50,611  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:05:22,823  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:05:22,830  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:05:22,830  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:05:22,831  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:05:22,833  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:05:22,833  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:05:22,834  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:05:22,834  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:05:23,039  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:05:23,088  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:05:23,193  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:05:28,155  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:05:30,381  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:05:30,381  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:ghjg
+2022-05-07T15:05:30,381  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:05:30,382  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:05:30,382  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:05:31,560  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:05:31,561  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:18:48,158  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:18:48,167  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:18:48,167  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:18:48,167  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:18:48,170  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:18:48,170  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:18:48,172  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:18:48,172  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:18:48,375  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:18:48,422  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:18:48,511  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:18:53,154  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:18:55,285  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:18:55,285  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fgdh
+2022-05-07T15:18:55,285  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:18:55,286  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:18:55,286  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:18:56,639  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:18:56,640  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:20:18,241  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:20:18,246  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:20:18,247  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:20:18,247  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:20:18,250  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:20:18,250  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:20:18,251  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:20:18,251  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:20:18,474  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:20:18,530  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:20:18,638  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:20:23,099  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:20:24,916  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:20:24,917  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:ghjgf
+2022-05-07T15:20:24,917  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:20:24,918  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:20:24,918  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:20:26,284  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:20:26,285  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:27:32,218  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:27:34,890  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:27:34,890  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:sgdfgds
+2022-05-07T15:27:34,890  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:27:34,891  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:27:34,891  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:34,902  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:34,902  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:27:43,578  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:27:43,578  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:sgdfgds
+2022-05-07T15:27:43,579  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:27:43,579  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:27:43,579  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:43,587  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:43,587  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:27:44,354  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:27:44,354  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:sgdfgds
+2022-05-07T15:27:44,355  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:27:44,355  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:27:44,355  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:44,365  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:44,365  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:27:44,746  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:27:44,747  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:sgdfgds
+2022-05-07T15:27:44,747  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:27:44,747  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:27:44,747  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:44,757  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:187 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:27:44,757  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:188 - Request parameters:[dfc=1, charset=utf-8, code=js, city=Shanghai, day=0]
+2022-05-07T15:28:12,457  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:28:12,464  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:28:12,464  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:28:12,465  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:28:12,467  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:28:12,467  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:28:12,468  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:28:12,468  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:28:12,665  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:28:12,715  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:28:12,812  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:28:16,810  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:28:18,540  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:28:18,540  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:dfsgdfg
+2022-05-07T15:28:18,540  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:28:18,541  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:28:18,541  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:28:20,061  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:28:20,061  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:28:39,426  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:28:39,427  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:dfsgdfg
+2022-05-07T15:28:39,427  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:28:39,428  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:28:39,428  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:28:39,438  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:28:39,439  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:29:07,604  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:29:07,610  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:29:07,611  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:29:07,611  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:29:07,614  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:29:07,614  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:29:07,614  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:29:07,615  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:29:07,809  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:29:07,859  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:29:07,947  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:29:11,858  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:29:14,540  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:29:14,540  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fghdf
+2022-05-07T15:29:14,540  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:29:14,541  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:29:14,541  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:29:15,934  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:29:15,934  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:30:55,610  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:30:55,616  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:30:55,616  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:30:55,616  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:30:55,618  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:30:55,619  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:30:55,619  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:30:55,619  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:30:55,811  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:30:55,862  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:30:55,956  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:31:01,587  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:31:03,675  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:31:03,676  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fhfdf
+2022-05-07T15:31:03,677  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:31:03,677  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:31:03,677  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:31:05,087  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:31:05,087  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:32:08,316  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:32:08,322  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:32:08,322  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:32:08,323  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:32:08,325  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:32:08,325  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:32:08,326  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:32:08,326  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:32:08,518  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:32:08,564  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:32:08,650  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:32:13,082  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:32:15,396  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:32:15,397  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fdhfdh
+2022-05-07T15:32:15,397  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:32:15,397  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:32:15,398  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:32:16,795  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:32:16,796  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:36:30,406  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:36:30,413  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:36:30,413  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:36:30,413  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:36:30,416  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:36:30,416  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:36:30,416  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:36:30,416  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:36:30,628  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:36:30,685  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:36:30,788  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:36:35,098  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:36:36,612  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:36:36,612  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fghfgh
+2022-05-07T15:36:36,612  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:36:36,613  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:36:36,613  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:36:37,959  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:36:37,959  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:42:12,826  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:42:12,833  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:42:12,833  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:42:12,834  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:42:12,837  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:42:12,837  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:42:12,837  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:42:12,837  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:42:13,039  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:42:13,089  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:42:13,179  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:42:17,802  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:42:20,083  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:42:20,084  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fgh
+2022-05-07T15:42:20,084  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:42:20,084  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:42:20,085  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:42:21,557  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:42:21,557  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:44:58,531  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:44:58,537  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:44:58,537  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:44:58,537  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:44:58,540  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:44:58,540  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:44:58,540  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:44:58,540  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:44:58,743  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:44:58,793  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:44:58,889  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:45:03,538  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:45:06,395  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:45:06,396  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:gsdfgfd
+2022-05-07T15:45:06,396  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:45:06,396  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:45:06,396  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:45:07,890  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:45:07,890  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:46:28,040  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:46:28,046  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:46:28,046  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:46:28,047  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:46:28,049  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:46:28,050  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:46:28,050  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:46:28,050  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:46:28,254  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:46:28,312  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:46:28,408  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:46:32,778  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:46:34,228  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:46:34,228  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fghf
+2022-05-07T15:46:34,228  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:46:34,229  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:46:34,229  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:46:35,613  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:46:35,613  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:49:53,372  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:49:53,379  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:49:53,379  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:49:53,380  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:49:53,383  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:49:53,383  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:49:53,383  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:49:53,383  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:49:53,589  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:49:53,639  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:49:53,728  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:49:58,626  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:50:00,090  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:50:00,091  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:dfsg
+2022-05-07T15:50:00,091  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:50:00,092  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:50:00,092  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:50:01,509  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:50:01,509  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-07T15:51:03,881  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-07T15:51:03,886  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-07T15:51:03,888  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-07T15:51:03,888  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-07T15:51:03,890  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-07T15:51:03,890  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-07T15:51:03,891  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-07T15:51:03,891  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-07T15:51:04,096  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-07T15:51:04,152  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-07T15:51:04,244  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-07T15:51:08,506  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-07T15:51:09,979  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-07T15:51:09,979  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:fsdaf
+2022-05-07T15:51:09,979  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-07T15:51:09,980  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-07T15:51:09,980  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-07T15:51:11,381  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-07T15:51:11,381  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-13T16:26:40,894  INFO main dumpUI3.App:30 - APP_STARTED
+2022-05-13T16:26:40,900  INFO main dumpUI3.context.Context:58 - load Project
+2022-05-13T16:26:40,900  INFO main dumpUI3.context.Context:94 - knowledge base is null
+2022-05-13T16:26:40,900  INFO main dumpUI3.context.Context:61 - loadProject
+2022-05-13T16:26:40,903  INFO main dumpUI3.context.Context:92 - knowledge base is not null
+2022-05-13T16:26:40,904  INFO main dumpUI3.context.Context:99 - notifyKnowledgeBaseObsever:
+2022-05-13T16:26:40,904  INFO main dumpUI3.Observer:67 - fireKnowledgeBaseRefresh
+2022-05-13T16:26:40,904  INFO main dumpUI3.Observer:60 - fire affiliation refresh
+2022-05-13T16:26:41,049  INFO main dumpUI3.gui.MainFrame:37 - CheckPost_1
+2022-05-13T16:26:41,080  INFO main dumpUI3.gui.MainFrame:39 - CheckPost_2
+2022-05-13T16:26:41,127  INFO main dumpUI3.App:39 - APP_FINISHED
+2022-05-13T16:26:45,679  INFO AWT-EventQueue-0 dumpUI3.components.manager.WordManager:48 - add operation called
+2022-05-13T16:26:48,331  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-13T16:26:48,331  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:gfhfgdh
+2022-05-13T16:26:48,332  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-13T16:26:48,332  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-13T16:26:48,332  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-13T16:26:49,253  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-13T16:26:49,253  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
+2022-05-13T16:27:24,750  INFO AWT-EventQueue-0 commands.edit.add.AddReportEdit:69 - executing add operation
+2022-05-13T16:27:24,750  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:75 - fullAffiliation:gfhfgdh
+2022-05-13T16:27:24,750  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:76 - basePath:http://localhost:8080/reportService
+2022-05-13T16:27:24,750  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:77 - endpointName:/addReport
+2022-05-13T16:27:24,751  INFO AWT-EventQueue-0 dumpUI3.model.dao.ReportDAO:78 - requestPath:http://localhost:8080/reportService/addReport
+2022-05-13T16:27:24,759  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:202 - Request address:http://localhost:8080/reportService/addReport
+2022-05-13T16:27:24,760  INFO AWT-EventQueue-0 dumpUI3.model.dao.SimpleHttpAsyncClientDemo:203 - Request parameters:[]
